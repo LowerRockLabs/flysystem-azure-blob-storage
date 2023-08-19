@@ -8,7 +8,7 @@
     "require": {
         "php": "^8.0.2",
         "league/flysystem": "^3.10.0",
-        "microsoft/azure-storage-blob": "^1.1"
+        "azure-oss/storage": "dev-main"
     },
     "license": "MIT",
     "authors": [
